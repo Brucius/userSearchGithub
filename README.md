@@ -1,4 +1,3 @@
 # userSearchGithub
-https://codepen.io/Fourthcollective/full/YQzJrW/ <br>
-A simple Github User Searcher made with Jquery and Bootswatch
-
+A simple Github User Searcher made with Jquery and Bootswatch <br>
+https://codepen.io/Fourthcollective/full/YQzJrW/ 
